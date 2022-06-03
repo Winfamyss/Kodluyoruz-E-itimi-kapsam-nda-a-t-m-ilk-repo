@@ -1,10 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Backend Eğitimi kapsamında açtığım ilk repo.
+İçerisinde 1 tane Github.png, 1 tane README.md ve Index.html vardır.
+![Resim](https://github.com/Winfamyss/kodluyoruzilkrepo/blob/main/Github.png)
 ## Installation
 Öncelikle projeyi clonelayın.
 > gh repo clone Winfamyss/kodluyoruzilkrepo
-## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
