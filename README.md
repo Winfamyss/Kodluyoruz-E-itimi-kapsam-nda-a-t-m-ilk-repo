@@ -1,2 +1,2 @@
-# Kodluyoruz-E-itimi-kapsam-nda-a-t-m-ilk-repo
+# kodluyoruzilkrepo
 Kodluyoruz Backend Eğitimi kapsamında açtığım ilk repo
